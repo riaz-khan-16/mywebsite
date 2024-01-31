@@ -1,0 +1,19 @@
+1. Transformer classification (DL,ML)
+2. Cricket Winner Prediction (ML)
+3. Flower Classification (CV)
+4. Movie Recommendation Sytem
+5. Sentiment Analysis (NLP)
+6.Chatbot using Python (NLP)
+7.Topic Identification (NLP)
+8. Grammer Auto Correct (NLP)
+9. Text Processing and classification(NLP)
+10. Resume Parsing System (NLP)
+11. Human Pose Esmtimation (CV)
+12. Digit Recognition (CV)
+13. Object Detectiom (CV)
+14. Face Recognition (CV)
+15. Licence Plate Detection(CV)
+
+
+  
+
